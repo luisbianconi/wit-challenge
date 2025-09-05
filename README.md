@@ -1,2 +1,0 @@
-# wit-challenge
-WIT Challenge
