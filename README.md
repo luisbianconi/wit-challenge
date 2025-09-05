@@ -2,6 +2,15 @@
 
 This repository contains the solutions for **Part 1** and **Part 2** of the DevOps Challenge.
 
+## 📂 Challenge Structure
+
+The challenge is divided as follows:
+
+- 🔧 [**Part 1 – Debug System Issues**](https://github.com/luisbianconi/wit-challenge/blob/main/P1-DEBUGSYSTEMISSUES.md)
+- 🐧 [**Part 2 – Linux Laboratory**](https://github.com/luisbianconi/wit-challenge/blob/main/P2-LINUXLABORATORY.md)
+
+Each part contains detailed documentation, configurations, commands, and reasoning.
+
 ## 📦 ISO Download Instructions
 
 To proceed with the setup, you’ll need access to the ISO file and .txt provided in a protected Google Drive folder.
