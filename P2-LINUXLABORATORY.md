@@ -250,7 +250,7 @@ Greetings from WIT!
 - ✅ SSL with self-signed certificate (Traefik)
 - ✅ Docker Volumes for config mounts
 - ✅ Docker Compose
-- ✅ Lightweight base images (chainguard)
+- ✅ Lightweight and secure base images (chainguard)
 - ✅ /wit-test endpoint rewrite via Nginx
 
 ---
